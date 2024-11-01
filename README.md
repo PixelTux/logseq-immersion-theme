@@ -2,7 +2,7 @@
 
 This is a [Logseq](https://logseq.com) theme focusing on immersion in mind.
 
-<img src="immersion.png" width="100"/>
+<img src="./immersion.png" width="100"/>
 
 ## Demo
 
